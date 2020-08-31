@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>This is my frist page</h1>
+            <h1>This is my Second Appliction</h1>
         </div>
     </form>
 </body>
